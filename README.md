@@ -5,6 +5,10 @@
 - [Objectives](#objectives)
 - [Scenario](#scenario)
 - [Guide](#guide)
+- [Incident Report](#incident-report)
+  - [Problem Summary](#problem-summary)
+  - [Incident Analysis and Recommendation](#incident-analysis-and-recommendations)
+- [Learning Experience](#learning-experience)
 
 ## Objectives
 
